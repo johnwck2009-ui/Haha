@@ -1,3 +1,4 @@
+import asyncio
 import html
 import json
 import logging
@@ -387,6 +388,8 @@ def main() -> None:
     application.add_handler(CallbackQueryHandler(callback_handler))
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, text_handler))
     logger.info("Starting haha777bot polling.")
+    # Python 3.14 no longer creates a default event loop implicitly.
+    asyncio.set_event_loop(asyncio.new_event_loop())
     application.run_polling(allowed_updates=Update.ALL_TYPES)
 
 
