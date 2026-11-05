@@ -47,7 +47,7 @@ The bot uses only the Telegram Bot API for messaging. Player records live in `da
 5. Start the bot:
 
    ```bash
-   python main.py
+   python bot.py
    ```
 
 Never commit a real bot token or a real `.env` file.
