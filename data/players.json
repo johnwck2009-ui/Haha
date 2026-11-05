@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Cristiano Ronaldo",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "date_of_birth": "1985-02-05",
+    "current_club": "Al Nassr",
+    "clubs": ["Sporting CP", "Manchester United", "Real Madrid", "Juventus", "Al Nassr"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 2,
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "date_of_birth": "1987-06-24",
+    "current_club": "Inter Miami",
+    "clubs": ["Barcelona", "Paris Saint-Germain", "Inter Miami"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 3,
+    "name": "Kylian Mbappe",
+    "nationality": "France",
+    "position": "Forward",
+    "date_of_birth": "1998-12-20",
+    "current_club": "Real Madrid",
+    "clubs": ["Monaco", "Paris Saint-Germain", "Real Madrid"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 4,
+    "name": "Erling Haaland",
+    "nationality": "Norway",
+    "position": "Forward",
+    "date_of_birth": "2000-07-21",
+    "current_club": "Manchester City",
+    "clubs": ["Molde", "Red Bull Salzburg", "Borussia Dortmund", "Manchester City"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 5,
+    "name": "Mohamed Salah",
+    "nationality": "Egypt",
+    "position": "Forward",
+    "date_of_birth": "1992-06-15",
+    "current_club": "Liverpool",
+    "clubs": ["Basel", "Chelsea", "Fiorentina", "Roma", "Liverpool"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 6,
+    "name": "Neymar Jr.",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "date_of_birth": "1992-02-05",
+    "current_club": "Santos",
+    "clubs": ["Santos", "Barcelona", "Paris Saint-Germain", "Al Hilal"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 7,
+    "name": "Kevin De Bruyne",
+    "nationality": "Belgium",
+    "position": "Midfielder",
+    "date_of_birth": "1991-06-28",
+    "current_club": "Napoli",
+    "clubs": ["Chelsea", "Werder Bremen", "Wolfsburg", "Manchester City", "Napoli"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 8,
+    "name": "Harry Kane",
+    "nationality": "England",
+    "position": "Forward",
+    "date_of_birth": "1993-07-28",
+    "current_club": "Bayern Munich",
+    "clubs": ["Tottenham Hotspur", "Bayern Munich"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 9,
+    "name": "Robert Lewandowski",
+    "nationality": "Poland",
+    "position": "Forward",
+    "date_of_birth": "1988-08-21",
+    "current_club": "Barcelona",
+    "clubs": ["Borussia Dortmund", "Bayern Munich", "Barcelona"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 10,
+    "name": "Vinicius Junior",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "date_of_birth": "2000-07-12",
+    "current_club": "Real Madrid",
+    "clubs": ["Real Madrid"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 11,
+    "name": "Jude Bellingham",
+    "nationality": "England",
+    "position": "Midfielder",
+    "date_of_birth": "2003-06-29",
+    "current_club": "Real Madrid",
+    "clubs": ["Birmingham City", "Borussia Dortmund", "Real Madrid"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 12,
+    "name": "Bukayo Saka",
+    "nationality": "England",
+    "position": "Forward",
+    "date_of_birth": "2001-09-05",
+    "current_club": "Arsenal",
+    "clubs": ["Arsenal"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 13,
+    "name": "Victor Osimhen",
+    "nationality": "Nigeria",
+    "position": "Forward",
+    "date_of_birth": "1998-12-29",
+    "current_club": "Galatasaray",
+    "clubs": ["Lille", "Napoli", "Galatasaray"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 14,
+    "name": "Sadio Mane",
+    "nationality": "Senegal",
+    "position": "Forward",
+    "date_of_birth": "1992-04-10",
+    "current_club": "Al Nassr",
+    "clubs": ["Southampton", "Liverpool", "Bayern Munich", "Al Nassr"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  },
+  {
+    "id": 15,
+    "name": "Luka Modric",
+    "nationality": "Croatia",
+    "position": "Midfielder",
+    "date_of_birth": "1985-09-09",
+    "current_club": "AC Milan",
+    "clubs": ["Tottenham Hotspur", "Real Madrid", "AC Milan"],
+    "career": {
+      "club": {"appearances": null, "goals": null, "assists": null},
+      "international": {"appearances": null, "goals": null}
+    },
+    "last_updated": null
+  }
+]
